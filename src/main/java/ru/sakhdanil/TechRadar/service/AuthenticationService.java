@@ -7,7 +7,6 @@ import ru.sakhdanil.TechRadar.models.user.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import ru.sakhdanil.TechRadar.models.JwtAuthenticationResponse;
-import ru.sakhdanil.TechRadar.models.Role;
 import ru.sakhdanil.TechRadar.models.user.SignUpRequest;
 import ru.sakhdanil.TechRadar.models.user.SignInRequest;
 
