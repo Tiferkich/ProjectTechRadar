@@ -11,6 +11,8 @@ T1 project for studing
 
 
 
+Также из интересного сделал @ControllerAdvice который отвечает за генерацию ошибок.
+
 
 Swagger UI:
 ![image](https://github.com/user-attachments/assets/2c77ff8a-3de6-444d-afa4-0513b9824d4c)
